@@ -73,7 +73,7 @@ You can customize the following parameters:
     alpha = 0.1  # Learning rate
     gamma = 0.9  # Discount factor
     epsilon = 0.1  # Exploration rate
-    num_episodes = 1000 # Number of training episodes
+    num_episodes = 100000 # Number of training episodes
     ```
 
 ## Future Enhancements
@@ -90,4 +90,5 @@ This project is licensed under the [MIT License](LICENSE).  (You should create a
 
 ## Author
 
-[Your Name/GitHub Username]
+Shivam Chaubey
+[shivamchaubey100]
